@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+section{
+    height: 500px;
+    padding-top: 60px;
+    padding-bottom: 100px;
+}
+h1{
+    color: royalblue;
+    font-weight: 700;
+    font-size: 80px;
+}
+.focus{
+    color: springgreen;
+}
+.focus2{
+    font-weight: 700;
+    font-size: 40px;
+}
+.half-width{
+    width: 35%;
+    margin-left: 10%;
+    float: left;
+    padding: 2%;
+    line-height: 50px;
+
+}
+.half-width img{
+    width: 100%;
+}
+.contact-button{
+    padding: 18px 28px;
+    text-decoration: none;
+    background-image: linear-gradient(180deg,skyblue,blue);
+    margin-top: 50px;
+    border-radius: 6px;
+    color: white;
+
+}
+.half-width1{
+    /* padding-right: 10%; */
+
+}
+.gym-head{
+    text-align: center;
+    font-size: 36px;
+    padding-bottom: 100px;
+}
+.gym{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    box-shadow: 10px 10px 40px gray;
+
+}
+.gym img{
+    width:100%;
+}
+.last{
+background-image: linear-gradient(90deg,salmon,cyan);
+position: relative;
+margin-left: 15%;
+margin-right: 15%;
+width: 70%;
+height: 200px;
+border-radius: 30px;
+
+
+}
+#work{
+    display: inline;
+    color: rgb(222, 233, 233);
+    font-size: 40px;
+    position: absolute;
+    top: 40px;
+    bottom: 10px;
+    left: 20px;
+
+}
+#go{
+    position: relative;
+    top: 80px;
+    bottom: 10px;
+    left: 790px;
+    font-size: 30px;
+    background-color: skyblue;
+    
+    border-radius: 5px;
+
+}
+
